@@ -36,3 +36,11 @@ Instale as dependências com:
 
 ```bash
 pip install pyautogui pandas
+```
+## 📸 Em execução
+
+https://github.com/user-attachments/assets/482ce8a7-58e4-434b-bb16-fbc0203c97be
+
+
+## 🙌 Créditos
+🎥 **[Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)** Feito em uma live no YouTube.
